@@ -3,9 +3,11 @@
 
 #### **Висновки:**
 #### *Завдання 1*
+
 - Status: Optimal
 - Optimal quantity of Lemonade: 30.0
 - Optimal quantity of Fruit Juice: 20.0
+- Maximum total quantity of products: 50.0
 
 #### *Завдання 2*
 - Інтеграл методом Монте-Карло: 36.2736
